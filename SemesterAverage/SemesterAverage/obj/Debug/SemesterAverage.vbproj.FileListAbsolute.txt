@@ -1,0 +1,26 @@
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe.config
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.pdb
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.xml
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.vbprojResolveAssemblyReference.cache
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.frmSemesterGrades.resources
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.Resources.resources
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.vbproj.GenerateResource.Cache
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.exe
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.xml
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.pdb
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe.config
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.exe
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.xml
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.pdb
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.pdb
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.xml
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.vbprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.frmSemesterGrades.resources
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.Resources.resources
+C:\Users\DELL\Downloads\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.vbproj.GenerateResource.Cache
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\Final\SemesterAverage\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe.config
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\Final\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.exe
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\Final\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.xml
+E:\OneDrive - Durham College\DC\2nd Semester\NETD 2202-05 Net Development\Week 4\Final\SemesterAverage\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.pdb
